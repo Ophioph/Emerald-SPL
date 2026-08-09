@@ -1000,6 +1000,8 @@ enum __attribute__((packed)) Item
     ITEM_SWAP_SNACK = 825,
     ITEM_TWICE_SPICED_RADISH = 826,
     ITEM_POKESHI_DOLL = 827,
+     // Infinite Candy
+    ITEM_iNFINITE_CANDY = 874,
 
     ITEM_STRANGE_BALL = 828,
 
@@ -1052,7 +1054,7 @@ enum __attribute__((packed)) Item
     ITEM_TATSUGIRINITE = 872,
     ITEM_GLIMMORANITE = 873,
 
-    ITEMS_COUNT,
+    ITEMS_COUNT, 874
     ITEM_FIELD_ARROW = ITEMS_COUNT,
 };
 
