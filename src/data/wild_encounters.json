@@ -44,6 +44,8 @@
         {
           "type": "fishing_mons",
           "encounter_rates": [
+            100,
+            100,
             20,
             20,
             20,
@@ -56,6 +58,12 @@
             1
           ],
           "groups": {
+            "old_rod": [
+              10
+            ],
+            "good_rod": [
+              11
+            ],
             "super_rod": [
               0,
               1,
