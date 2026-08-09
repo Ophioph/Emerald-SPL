@@ -15836,7 +15836,6 @@ const struct ItemInfo gItemsInfo[] =
      [ITEM_INFINITE_CANDY] =
     {
         .name = ITEM_NAME("Infinite Candy"),
-        .pluralName = ITEM_PLURAL_NAME("Infinite Candies"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Raises the level\n"
