@@ -46,3 +46,10 @@ RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
 	.string "CUT down skinny trees.$"
 
 RustboroCity_PokemonCenter_1F_EventScript_GYMHelper:
+	msgbox RustboroCity_PokemonCenter_1F_Text_GYMHelper, MSGBOX_NPC
+	giveitem ITEM_INFINITE_CANDY
+	end
+
+RustboroCity_PokemonCenter_1F_Text_GYMHelper:
+	.string "The next Gym Leader Roxanne's strongest\n"
+	.string "Pokemon is lvl18, this should be useful.$"
