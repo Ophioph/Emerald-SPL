@@ -4800,29 +4800,56 @@ Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Tyrunt  
+Ability: Strong Jaw  
+Level: 18  
+Tera Type: Rock  
+Adamant Nature  
+- Poison Fang  
+- Thunder Fang  
+- Bite  
+- Fire Fang  
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Lileep  
+Ability: Storm Drain  
+Level: 18  
+Tera Type: Rock  
+Relaxed Nature  
+- Ancient Power  
+- Brine  
+- Mega Drain  
+- Rock Tomb  
 
-Nosepass @ Oran Berry
-Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
-- Rock Tomb
+Cranidos  
+Ability: Sheer Force  
+Level: 18  
+Tera Type: Rock  
+Adamant Nature  
+- Bulldoze  
+- Headbutt  
+- Rock Tomb  
+- Trailblaze  
+
+Nosepass  
+Ability: Sturdy  
+Level: 18  
+Tera Type: Rock  
+Careful Nature  
+- Explosion  
+- Stealth Rock  
+- Bulldoze  
+- Mud-Slap  
+
+Onix  
+Ability: Weak Armor  
+Level: 18  
+Tera Type: Rock  
+Jolly Nature  
+- Bulldoze  
+- Rock Tomb  
+- Skull Bash  
+- Bind  
+
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
