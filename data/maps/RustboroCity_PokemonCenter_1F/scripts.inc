@@ -45,3 +45,4 @@ RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
 	.string "I used it to teach my POKéMON how to\n"
 	.string "CUT down skinny trees.$"
 
+RustboroCity_PokemonCenter_1F_EventScript_GYMHelper:
