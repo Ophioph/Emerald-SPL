@@ -1055,7 +1055,7 @@ enum __attribute__((packed)) Item
     // Infinite Candy
     ITEM_iNFINITE_CANDY = 874,
 
-    ITEMS_COUNT, 874
+    ITEMS_COUNT, 875
     ITEM_FIELD_ARROW = ITEMS_COUNT,
 };
 
