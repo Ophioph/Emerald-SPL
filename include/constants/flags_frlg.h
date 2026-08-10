@@ -2587,7 +2587,7 @@
 #define FLAG_LANDMARK_ARTISAN_CAVE                  0
 #define FLAG_ARRIVED_AT_NAVEL_ROCK                  0
 #define FLAG_LANDMARK_TRAINER_HILL                  0
-#define FLAG_UNUSED_0x8E3                           0 // Unused Flag
+#define FLAG_RECEIVED_INFINITE_CANDY                0 //uh maKES SURE YOU DONT KEEP GETTING INFINITE CANDY AFTER YOU GET IT ONCE
 #define FLAG_RECEIVED_POKEDEX_FROM_BIRCH            0
 
 #define FLAG_UNUSED_0x8E5                           0
