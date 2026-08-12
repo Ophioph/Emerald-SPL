@@ -2558,9 +2558,27 @@ Items: Full Restore
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Golduck @ Big Nugget  
+Ability: Swift Swim  
+Level: 12  
+Tera Type: Water  
+- Thief  
+- Fling  
+
+Gholdengo @ Big Nugget  
+Ability: Good as Gold  
+Level: 10  
+Tera Type: Steel  
+- Thief  
+- Fling  
+
+Goldeen @ Salac Berry  
+Ability: Swift Swim  
+Level: 12  
+Tera Type: Water  
+- Natural Gift  
+- Rain Dance  
+
 
 === TRAINER_MOLLIE ===
 Name: MOLLIE
@@ -6065,10 +6083,37 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Geodude
-Level: 10
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
+Roggenrola  
+Ability: Sturdy  
+Level: 14  
+Tera Type: Rock  
+- Stealth Rock  
+- Smack Down  
+- Magnitude  
+
+Nosepass  
+Ability: Sturdy  
+Level: 14  
+Tera Type: Rock  
+- Double Team  
+- Rock Blast  
+- Heavy Slam  
+
+Geodude  
+Ability: Rock Head  
+Level: 14  
+Tera Type: Rock  
+- Curse  
+- Magnitude  
+- Rock Tomb  
+
+Dwebble  
+Ability: Weak Armor  
+Level: 14  
+Tera Type: Bug  
+- Bug Bite  
+- Bulldoze  
+- Smack Down  
 
 === TRAINER_TOMMY ===
 Name: TOMMY
@@ -6079,13 +6124,41 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Geodude
-Level: 8
-IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
+Rockruff  
+Ability: Own Tempo  
+Level: 15  
+Tera Type: Rock  
+- Charm  
+- Sandstorm  
+- Swords Dance  
+- Crunch  
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Bonsly  
+Ability: Rock Head  
+Level: 15  
+Tera Type
+: Rock  
+- Stealth Rock  
+- Rock Tomb  
+- Thief  
+
+Aron  
+Ability: Rock Head  
+Level: 15  
+Tera Type: Steel  
+- Heavy Slam  
+- Rock Smash  
+- Rock Tomb  
+- Stomp  
+
+Omanyte  
+Ability: Weak Armor  
+Level: 15  
+Tera Type: Rock  
+- Aurora Beam  
+- Smack Down  
+- Rock Tomb  
+
 
 === TRAINER_JOEY ===
 Name: JOEY
@@ -6430,17 +6503,26 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Magikarp
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Magikarp  
+Ability: Swift Swim  
+Level: 15  
+Tera Type: Water  
+IVs: 0 Atk  
+- Hydro Pump  
 
-Magikarp
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Magikarp  
+Ability: Swift Swim  
+Level: 15  
+Tera Type: Water  
+IVs: 0 Atk  
+- Hydro Pump  
 
-Magikarp
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Magikarp  
+Ability: Swift Swim  
+Level: 15  
+Tera Type: Water  
+IVs: 0 Atk  
+- Hydro Pump  
 
 === TRAINER_CLAUDE ===
 Name: CLAUDE
@@ -11515,13 +11597,35 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Nincada
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Yanma  
+Ability: Speed Boost  
+Level: 10  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Ancient Power  
+- Ominous Wind  
+- Silver Wind  
+- Roost  
 
-Nincada
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Volbeat  
+Ability: Prankster  
+Level: 10  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Tail Glow  
+- Ominous Wind  
+- Mud-Slap  
+- Silver Wind  
+
+Cutiefly  
+Ability: Shield Dust  
+Level: 10  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fairy Wind  
+- Silver Wind  
+- Roost  
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
