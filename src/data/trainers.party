@@ -5328,9 +5328,42 @@ Music: Girl
 Double Battle: No
 AI: Check Bad Move
 
-Shroomish
-Level: 9
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Chingling  
+Ability: Levitate  
+Level: 12  
+Tera Type: Psychic  
+IVs: 0 Atk  
+- Icy Wind  
+- Hypnosis  
+- Calm Mind  
+- Stored Power  
+
+Lotad  
+Ability: Own Tempo  
+Level: 12  
+Tera Type: Water  
+IVs: 0 Atk  
+- Absorb  
+- Water Pulse  
+- Attract  
+
+Timburr @ Flame Orb  
+Ability: Guts  
+Level: 12  
+Tera Type: Fighting  
+- Low Sweep  
+- Fling  
+- Retaliate  
+
+Exeggcute @ Sitrus Berry  
+Ability: Harvest  
+Level: 13  
+Tera Type: Grass  
+IVs: 0 Atk  
+- Toxic  
+- Giga Drain  
+- Wish  
+-Protect 
 
 === TRAINER_GEORGIA ===
 Name: GEORGIA
@@ -8989,13 +9022,21 @@ Music: Twins
 Double Battle: Yes
 AI: Check Bad Move
 
-Seedot
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Taillow @ Flame Orb  
+Ability: Guts  
+Level: 10  
+Tera Type: Normal  
+- Facade  
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Clefairy  
+Ability: Friend Guard  
+Level: 10  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Follow Me  
+- Soft-Boiled  
+- Heal Pulse  
+
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
@@ -10744,13 +10785,37 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Bonsly  
+Ability: Sturdy  
+Level: 15  
+Tera Type: Rock  
+- Stealth Rock  
+- Spikes  
+- Sand Tomb  
+- Tearful Look  
 
-Geodude
-Level: 8
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Rockruff  
+Ability: Keen Eye  
+Level: 15  
+Tera Type: Rock  
+- Bite  
+- Bulldoze  
+
+Archen  
+Ability: Defeatist  
+Level: 15  
+Tera Type: Rock  
+- Pluck  
+- Rock Tomb  
+- Roost  
+
+Growlithe-Hisui  
+Ability: Intimidate  
+Level: 15  
+Tera Type: Fire  
+- Flame Wheel  
+- Howl  
+- Rock Tomb  
 
 === TRAINER_BRENDEN ===
 Name: BRENDEN
@@ -11533,13 +11598,38 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 8
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Skorupi  
+Ability: Battle Armor  
+Level: 12  
+Tera Type: Poison  
+- Toxic Spikes  
+- Fury Cutter  
+- Poison Fang  
 
-Nincada
-Level: 8
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Shelmet  
+Ability: Hydration  
+Level: 12  
+Tera Type: Bug  
+- Skitter Smack  
+- Acid  
+- Struggle Bug  
+
+Spinarak  
+Ability: Swarm  
+Level: 12  
+Tera Type: Bug  
+- Infestation  
+- Substitute  
+- Attract  
+- Pounce  
+
+Surskit  
+Ability: Swift Swim  
+Level: 12  
+Tera Type: Bug  
+- Fell Stinger  
+- Water Pulse  
+- Attract  
 
 === TRAINER_DOUG ===
 Name: DOUG
@@ -11805,9 +11895,30 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Geodude
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Timburr @ Flame Orb  
+Ability: Guts  
+Level: 12  
+Tera Type: Fighting  
+- Low Sweep  
+- Fling  
+- Retaliate  
+
+Geodude  
+Ability: Rock Head  
+Level: 13  
+Tera Type: Rock  
+- Dig  
+- Rock Tomb  
+- Headbutt  
+
+Rhyhorn  
+Ability: Reckless  
+Level: 13  
+Tera Type: Ground  
+- Headbutt  
+- Rock Tomb  
+- Take Down  
+- Bulldoze  
 
 === TRAINER_ERIC ===
 Name: ERIC
@@ -14133,13 +14244,12 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Shroomish
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Beedrill @ Beedrillite  
+Ability: Sniper  
+Modest Nature  
+- Cut  
 
-Lotad
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 
 === TRAINER_MELINA ===
 Name: MELINA
