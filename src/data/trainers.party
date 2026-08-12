@@ -233,9 +233,38 @@ Music: Aqua
 Double Battle: No
 AI: Check Bad Move
 
-Poochyena
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Carvanha @ Sitrus Berry  
+Ability: Speed Boost  
+Level: 12  
+Tera Type: Water  
+- Aqua Jet  
+- Flip Turn  
+- Bite  
+
+Qwilfish @ Sitrus Berry  
+Ability: Intimidate  
+Level: 12  
+Tera Type: Water  
+- Aqua Jet  
+- Swords Dance  
+- Poison Tail  
+
+Basculin @ Sitrus Berry  
+Ability: Adaptability  
+Level: 12  
+Tera Type: Water  
+- Aqua Jet  
+- Bite  
+- Flip Turn  
+
+Houndour @ Sitrus Berry  
+Ability: Unnerve  
+Level: 12  
+Tera Type: Dark  
+- Ember  
+- Pursuit  
+- Snarl  
+- Super Fang  
 
 === TRAINER_MARCEL ===
 Name: MARCEL
@@ -5978,9 +6007,37 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Poochyena
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Poliwag  
+Ability: Water Absorb  
+Level: 8  
+Tera Type: Water  
+- Water Gun  
+- Pound  
+- Mud-Slap  
+
+Vulpix  
+Ability: Flash Fire  
+Level: 7  
+Tera Type: Fire  
+- Tackle  
+- Ember  
+
+Poochyena  
+Ability: Rattled  
+Level: 7  
+Tera Type: Dark  
+- Tackle  
+- Rock Smash  
+- Snarl  
+
+Greavard  
+Ability: Fluffy  
+Level: 7  
+Tera Type: Ghost  
+- Lick  
+- Bite  
+- Tackle  
+
 
 === TRAINER_BILLY ===
 Name: BILLY
@@ -6244,13 +6301,28 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Taillow  
+Ability: Scrappy  
+Level: 8  
+Tera Type: Normal  
+- Peck  
+- Quick Attack  
+- Pursuit  
 
-Taillow
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Wingull  
+Ability: Keen Eye  
+Level: 9  
+Tera Type: Water  
+- U-turn  
+- Water Gun  
+
+Swablu  
+Ability: Natural Cure  
+Level: 10  
+Tera Type: Normal  
+- Pursuit  
+- Roost  
+- Peck  
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -11083,13 +11155,28 @@ Music: Female
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lotad  
+Ability: Swift Swim  
+Level: 8  
+Tera Type: Water  
+- Leech Seed  
+- Bullet Seed  
 
-Shroomish
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Vulpix  
+Ability: Flash Fire  
+Level: 8  
+Tera Type: Fire  
+- Quick Attack  
+- Will-O-Wisp  
+- Ember  
+
+Makuhita  
+Ability: Thick Fat  
+Level: 8  
+Tera Type: Fighting  
+- Power-Up Punch  
+- Fake Out  
+- Bullet Punch  
 
 === TRAINER_HALEY_1 ===
 Name: HALEY
@@ -11287,13 +11374,40 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sizzlipede  
+Ability: Flame Body  
+Level: 5  
+Tera Type: Fire  
+IVs: 0 Atk  
+- Fire Spin  
+- Struggle Bug  
+- Smokescreen  
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dewpider  
+Ability: Water Bubble  
+Level: 5  
+Tera Type: Water  
+- Water Gun  
+- Double Team  
+- Pounce  
+
+Snom  
+Ability: Ice Scales  
+Level: 5  
+Tera Type: Ice  
+IVs: 0 Atk  
+- Powder Snow  
+- Struggle Bug  
+
+Blipbug  
+Ability: Compound Eyes  
+Level: 5  
+Tera Type: Bug  
+IVs: 0 Atk  
+- Infestation  
+- Struggle Bug  
+- Recover  
+- Sticky Web  
 
 === TRAINER_LYLE ===
 Name: LYLE
@@ -11304,21 +11418,29 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Shroomish  
+Ability: Effect Spore  
+Level: 9  
+Tera Type: Grass  
+IVs: 0 Atk  
+- Mega Drain  
+- Swift  
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Stunky  
+Ability: Stench  
+Level: 9  
+Tera Type: Poison  
+- Smog  
+- Venoshock  
+- Pursuit  
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Shuckle  
+Ability: Sturdy  
+Level: 9  
+Tera Type: Bug  
+IVs: 0 HP  
+- Rock Tomb  
+- Skitter Smack  
 
 === TRAINER_JOSE ===
 Name: JOSE
